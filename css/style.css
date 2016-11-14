@@ -35,6 +35,19 @@ h1 {
   display: inline-block;
 }
 
+.minutes,
+.seconds {
+  width: 31vh;
+}
+
+.minutes {
+  text-align: right;
+}
+
+.seconds {
+  text-align: left;
+}
+
 .smalltext {
   padding-top: 0px;
   font-size: 3vh;
